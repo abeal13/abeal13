@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @abeal13
 - 👀 I’m interested in medical research, AI, and digital humanities
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, R, and C 
 - 💞️ I’m looking to collaborate on medical research/ data analysis
 - 📫 feel free to reach out :)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him they/them
 - ⚡ Fun fact: I'm an acupuncturist!
 
 <!---
